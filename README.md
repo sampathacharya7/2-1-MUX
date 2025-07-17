@@ -1,7 +1,7 @@
 # 2-1-MUX
 A multiplexer is a combinational circuit that has many data inputs and a single output, depending on control or select inputs. For N input lines, log2(N) selection lines are required, or equivalently, for 2n input lines, n selection lines are needed. Multiplexers are also known as "N-to-1 selectors," parallel-to-serial converters, many-to-one circuits, and universal logic circuits. They are mainly used to increase the amount of data that can be sent over a network within a certain amount of time and bandwidth ![image_1](https://github.com/user-attachments/assets/4a87c7ff-629a-485b-a6a4-baa727c597b9)
 
-#2x1 Multiplexer
+# 2x1 Multiplexer
 The 2x1 is a fundamental circuit which is also known 2-to-1 multiplexer that are used to choose one signal from two inputs and transmits it to the output. The 2x1 mux has two input lines, one output line, and a single selection line. It has various applications in digital systems such as in microprocessor it is used to select between two different data sources or between two different instructions.
 
 Block Diagram of 2:1 Multiplexer with Truth Table
